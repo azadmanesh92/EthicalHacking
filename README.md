@@ -11,7 +11,7 @@ Type a word and let it turn into a hash code.
 
 Now run Untitled 1.  Feed the hash to it. 
 
-Input the location of the txt file on your computer.
+Input the location of the txt file on your computer. If you are Iranian, use the txt called millions of passwords.
 
 Run it.
 
